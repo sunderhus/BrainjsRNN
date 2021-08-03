@@ -1,0 +1,16 @@
+{
+  "name": "lstm-example",
+  "version": "1.0.0",
+  "description": "Trabalho 01, disciplina de Inteligência Artificial",
+  "main": "main.js",
+  "author": "Matheus Sunderhus",
+  "license": "MIT",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.2"
+  },
+  "scripts": {
+    "test:01": "node example01.js",
+    "test:02": "node example02.js",
+    "test:03": "node example03.js"
+  } 
+}
